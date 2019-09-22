@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99.Default">
+      <UniqueIdentifier>{3df0867c-e412-4d52-b5da-4111ded02de4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98.Include">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00.MainGame">
+      <UniqueIdentifier>{ff6a534d-759a-473e-9f27-ec3a628ab93e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager">
+      <UniqueIdentifier>{e5084ec2-a9ad-4d7d-98a5-906e53062f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\00.SceneMgr">
+      <UniqueIdentifier>{87422a55-0b39-47f7-b288-00e39df714e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene">
+      <UniqueIdentifier>{b65da546-e25f-4689-9ffe-0ce12d6c0297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.Bitmap">
+      <UniqueIdentifier>{cc13c6f2-e881-4e90-b401-afb50f23dcf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\00.Scene_Login">
+      <UniqueIdentifier>{a2ce1a2f-84c3-4547-8c46-36f5572e5d10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\01.Scene_Lobby">
+      <UniqueIdentifier>{d7c03fd7-5873-4833-a245-ca04806d551f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\02.Scene_Ingame">
+      <UniqueIdentifier>{5333b52b-4ef7-40ff-af60-288af425ae39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\03.Scene_Test">
+      <UniqueIdentifier>{2354177a-91af-48d0-9b59-c701b75520af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\01.GameMgr">
+      <UniqueIdentifier>{610a74ca-fe80-429b-91d8-c208b9323a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.UI">
+      <UniqueIdentifier>{2ee70748-12a5-4979-8029-6a10141c12c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.UI\00.UI_Button">
+      <UniqueIdentifier>{f8fb26b4-258e-4d7f-9fcf-9fccc897f1e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.UI\01.UI_Font">
+      <UniqueIdentifier>{70f3f6fa-f93f-49a4-b010-117d340dc8ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.UI\02.UI_Timer">
+      <UniqueIdentifier>{6f964f84-c783-4adb-9d2f-31e3d64765d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.UI\03.UI_ImageFont">
+      <UniqueIdentifier>{108754b2-b549-4117-9fab-ef24ece408d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\02.KeyMgr">
+      <UniqueIdentifier>{1081a2c7-de67-4d44-963d-4c1ddd938489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\03.MouseMgr">
+      <UniqueIdentifier>{61ad3ba0-a95f-4e48-aee3-a2a30dcd8531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Tile">
+      <UniqueIdentifier>{606bfcc3-8883-4d21-b9fb-331ce5bf72fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\04.MapMgr">
+      <UniqueIdentifier>{0efa669f-c813-4815-88f9-6cb95aae2114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object">
+      <UniqueIdentifier>{f9e94ca2-1d25-494f-854d-0fd7ae2a5d6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\09.Block">
+      <UniqueIdentifier>{3c5525a3-b8c3-4e3d-8834-72fb334f6446}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\05.ObjectMgr">
+      <UniqueIdentifier>{40abc238-aabc-43dc-93eb-39fa83d2afaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\06.TimeMgr">
+      <UniqueIdentifier>{74b8bc94-6894-4a1a-a80a-310120c28a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="81.NetWork">
+      <UniqueIdentifier>{856d17e4-adb1-44fb-a2a1-7c37b5aaff9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="81.NetWork\NetInclude">
+      <UniqueIdentifier>{305a452c-b00d-47d5-b4bc-57d915b3b3db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="81.NetWork\00.ClientMgr">
+      <UniqueIdentifier>{982ef2de-f191-40d9-bda8-15f1d3de7181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="81.NetWork\00.ClientMgr\00.Client">
+      <UniqueIdentifier>{3980e497-e09f-4342-a46f-1da3fb947829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\00.Character">
+      <UniqueIdentifier>{167df78d-1a54-431f-a9ae-247f876c20b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\00.Character\00.Bazzi">
+      <UniqueIdentifier>{859c75b8-1b8b-4da6-a840-968ba65b26a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\00.Character\01.Dao">
+      <UniqueIdentifier>{e0c703bb-4676-4b88-9941-7cabc7b2c6b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\07.CollisionMgr">
+      <UniqueIdentifier>{ac008c88-2f99-45aa-8a68-3e5af13b64f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\01.Bubble">
+      <UniqueIdentifier>{6adcee64-3a23-44f5-8ead-3b8891c8e4eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\01.Bubble\02.BubbleFlow">
+      <UniqueIdentifier>{16c651b7-2f0e-434e-81e8-6d8011e35c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\10.Item">
+      <UniqueIdentifier>{2d749c86-5cb3-45cf-98b9-7a5fe92463b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object\10.Item\00.Dart">
+      <UniqueIdentifier>{694b47d8-e4c9-4355-8d35-d81de5291386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\08.ChatMgr">
+      <UniqueIdentifier>{170454d2-3f60-4fb6-86f0-a63bffbe2bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="80.Manager\09.SoundMgr">
+      <UniqueIdentifier>{cdf1647e-e343-4cf5-96d7-5e3acf57175e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CreaztArcade_Client.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Include.h">
+      <Filter>98.Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>98.Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>98.Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>98.Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapMgr.h">
+      <Filter>97.Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBitmap.h">
+      <Filter>97.Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>98.Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>03.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Button.h">
+      <Filter>03.UI\00.UI_Button</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Font.h">
+      <Filter>03.UI\01.UI_Font</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_ImageFont.h">
+      <Filter>03.UI\03.UI_ImageFont</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Test.h">
+      <Filter>01.Scene\03.Scene_Test</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMgr.h">
+      <Filter>80.Manager\01.GameMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseMgr.h">
+      <Filter>80.Manager\03.MouseMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>80.Manager\02.KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>04.Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="MapMgr.h">
+      <Filter>80.Manager\04.MapMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>02.Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>02.Object\09.Block</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>80.Manager\00.SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectMgr.h">
+      <Filter>80.Manager\05.ObjectMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>80.Manager\06.TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="NetMgr.h">
+      <Filter>81.NetWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol.h">
+      <Filter>81.NetWork\NetInclude</Filter>
+    </ClInclude>
+    <ClInclude Include="NetFunc.h">
+      <Filter>81.NetWork\NetInclude</Filter>
+    </ClInclude>
+    <ClInclude Include="NetInclude.h">
+      <Filter>81.NetWork\NetInclude</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientMgr.h">
+      <Filter>81.NetWork\00.ClientMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>81.NetWork\00.ClientMgr\00.Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>02.Object\00.Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Bazzi.h">
+      <Filter>02.Object\00.Character\00.Bazzi</Filter>
+    </ClInclude>
+    <ClInclude Include="Dao.h">
+      <Filter>02.Object\00.Character\01.Dao</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Timer.h">
+      <Filter>03.UI\02.UI_Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Login.h">
+      <Filter>01.Scene\00.Scene_Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Lobby.h">
+      <Filter>01.Scene\01.Scene_Lobby</Filter>
+    </ClInclude>
+    <ClInclude Include="Bubble.h">
+      <Filter>02.Object\01.Bubble</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleFlow.h">
+      <Filter>02.Object\01.Bubble\02.BubbleFlow</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleFlow_List.h">
+      <Filter>02.Object\01.Bubble\02.BubbleFlow</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>80.Manager\07.CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>02.Object\10.Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Dart.h">
+      <Filter>02.Object\10.Item\00.Dart</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatMgr.h">
+      <Filter>80.Manager\08.ChatMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>80.Manager\09.SoundMgr</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CreaztArcade_Client.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapMgr.cpp">
+      <Filter>97.Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBitmap.cpp">
+      <Filter>97.Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>03.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Button.cpp">
+      <Filter>03.UI\00.UI_Button</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Font.cpp">
+      <Filter>03.UI\01.UI_Font</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_ImageFont.cpp">
+      <Filter>03.UI\03.UI_ImageFont</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Test.cpp">
+      <Filter>01.Scene\03.Scene_Test</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMgr.cpp">
+      <Filter>80.Manager\01.GameMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseMgr.cpp">
+      <Filter>80.Manager\03.MouseMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>80.Manager\02.KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>04.Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="MapMgr.cpp">
+      <Filter>80.Manager\04.MapMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>02.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>02.Object\09.Block</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>80.Manager\00.SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectMgr.cpp">
+      <Filter>80.Manager\05.ObjectMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>80.Manager\06.TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="NetMgr.cpp">
+      <Filter>81.NetWork</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientMgr.cpp">
+      <Filter>81.NetWork\00.ClientMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>81.NetWork\00.ClientMgr\00.Client</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>02.Object\00.Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Bazzi.cpp">
+      <Filter>02.Object\00.Character\00.Bazzi</Filter>
+    </ClCompile>
+    <ClCompile Include="Dao.cpp">
+      <Filter>02.Object\00.Character\01.Dao</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Timer.cpp">
+      <Filter>03.UI\02.UI_Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Login.cpp">
+      <Filter>01.Scene\00.Scene_Login</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Lobby.cpp">
+      <Filter>01.Scene\01.Scene_Lobby</Filter>
+    </ClCompile>
+    <ClCompile Include="Bubble.cpp">
+      <Filter>02.Object\01.Bubble</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleFlow.cpp">
+      <Filter>02.Object\01.Bubble\02.BubbleFlow</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleFlow_List.cpp">
+      <Filter>02.Object\01.Bubble\02.BubbleFlow</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>80.Manager\07.CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>02.Object\10.Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Dart.cpp">
+      <Filter>02.Object\10.Item\00.Dart</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatMgr.cpp">
+      <Filter>80.Manager\08.ChatMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>80.Manager\09.SoundMgr</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="CreaztArcade_Client.ico">
+      <Filter>99.Default</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>99.Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CreaztArcade_Client.rc">
+      <Filter>99.Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>99.Default</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

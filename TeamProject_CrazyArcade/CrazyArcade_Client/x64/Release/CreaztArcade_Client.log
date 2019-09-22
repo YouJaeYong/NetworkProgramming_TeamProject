@@ -1,0 +1,78 @@
+﻿  stdafx.cpp
+  Bazzi.cpp
+  BitmapMgr.cpp
+  Block.cpp
+  Bubble.cpp
+  BubbleFlow.cpp
+  BubbleFlow_List.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\bubbleflow_list.cpp(126): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Character.cpp
+  ChatMgr.cpp
+  Client.cpp
+  ClientMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\clientmgr.cpp(24): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(79): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(80): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(83): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(84): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(161): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(162): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(165): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(166): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CreaztArcade_Client.cpp
+  Dao.cpp
+  Dart.cpp
+  GameMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\gamemgr.cpp(52): warning C4101: 'pFunc' :참조되지 않은 지역 변수입니다.
+  Item.cpp
+  KeyMgr.cpp
+  MainGame.cpp
+  MapMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\mapmgr.cpp(221): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\mapmgr.cpp(221): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  MouseMgr.cpp
+  컴파일하고 있습니다...
+  MyBitmap.cpp
+  NetMgr.cpp
+  Object.cpp
+  ObjectMgr.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  Scene_Lobby.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_lobby.cpp(168): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_lobby.cpp(171): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_lobby.cpp(177): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_lobby.cpp(186): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_lobby.cpp(188): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_lobby.cpp(190): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Login.cpp
+  Scene_Test.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_test.cpp(151): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_test.cpp(154): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_test.cpp(157): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\soundmgr.cpp(61): warning C4244: '=': 'intptr_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\soundmgr.cpp(74): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+  TimeMgr.cpp
+  UI.cpp
+  UI_Button.cpp
+  UI_Font.cpp
+  UI_ImageFont.cpp
+  UI_Timer.cpp
+SoundMgr.obj : error LNK2001: FMOD_System_Create 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_GetVersion 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Init 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_CreateSound 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Update 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_Stop 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Sound_SetMode 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_PlaySound 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_SetVolume 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_GetVolume 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_IsPlaying 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Sound_Release 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Close 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Release 외부 기호를 확인할 수 없습니다.
+C:\Users\유재용\Downloads\최종 완성-전현우, 정우혁, 유재용\CreaztArcade_Client\x64\Release\CreaztArcade_Client.exe : fatal error LNK1120: 14개의 확인할 수 없는 외부 참조입니다.

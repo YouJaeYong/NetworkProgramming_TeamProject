@@ -1,0 +1,61 @@
+﻿  stdafx.cpp
+  Bazzi.cpp
+  BitmapMgr.cpp
+  Block.cpp
+  Bubble.cpp
+  BubbleFlow.cpp
+  BubbleFlow_List.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\bubbleflow_list.cpp(131): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\bubbleflow_list.cpp(136): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  Character.cpp
+  ChatMgr.cpp
+  Client.cpp
+  ClientMgr.cpp
+  CollisionMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(79): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(80): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(83): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(84): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(161): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(162): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(165): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(166): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(254): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\collisionmgr.cpp(350): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CreaztArcade_Client.cpp
+  Dao.cpp
+  Dart.cpp
+  GameMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\gamemgr.cpp(52): warning C4101: 'pFunc' :참조되지 않은 지역 변수입니다.
+  Item.cpp
+  KeyMgr.cpp
+  MainGame.cpp
+  MapMgr.cpp
+  MouseMgr.cpp
+  컴파일하고 있습니다...
+  MyBitmap.cpp
+  NetMgr.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\netmgr.cpp(205): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\netmgr.cpp(390): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\netmgr.cpp(460): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\netmgr.cpp(478): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Object.cpp
+  ObjectMgr.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  Scene_Lobby.cpp
+  Scene_Login.cpp
+  Scene_Test.cpp
+c:\users\유재용\downloads\최종 완성-전현우, 정우혁, 유재용\creaztarcade_client\scene_test.cpp(168): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SoundMgr.cpp
+  Tile.cpp
+  TimeMgr.cpp
+  UI.cpp
+  UI_Button.cpp
+  UI_Font.cpp
+  UI_ImageFont.cpp
+  UI_Timer.cpp
+  코드를 생성하고 있습니다.
+  All 1608 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  CreaztArcade_Client.vcxproj -> C:\Users\유재용\Downloads\최종 완성-전현우, 정우혁, 유재용\CreaztArcade_Client\Release\CreaztArcade_Client.exe
