@@ -1,2 +1,3 @@
 # NetworkProgramming_TeamProject
-Crazy Arcade Demo
+Win api 기반 클라이언트
+TCP/IP 네트워크 서버 
